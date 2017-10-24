@@ -1,0 +1,24 @@
+body {
+  position: relative;
+}
+
+#downloadImg {
+  height: 100px;
+}
+
+.marginRight {
+  margin-right: 5px;
+}
+
+.fixer {
+  height: 50%;
+  width: 100%;
+}
+
+.marginBottom {
+  margin-bottom: 50px;
+}
+
+.noMargin {
+  margin: 0;
+}
